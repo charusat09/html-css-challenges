@@ -1,6 +1,6 @@
 ## Background & Objectives
 
-Build a nice layout with a fixed sidebar and a scrollable page content.
+Build a nice layout with a fixed sidebar and a scrollable page content. Also make this page mobile responsive.
 
 ## Specs
 
